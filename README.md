@@ -16,11 +16,11 @@ him answer his questions!
 
 Danny has shared with you 3 key datasets for this case study: 
 
-a) sales
+**a) sales**
 
-b) menu 
+**b) menu** 
 
-c) members
+**c) members**
 
 You can inspect the entity relationship diagram and example data below. 
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/100192236/155496893-9429c8bc-3818-499d-b254-5dd9aac28824.png">
